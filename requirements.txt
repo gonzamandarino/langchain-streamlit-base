@@ -1,6 +1,5 @@
 streamlit
 replicate
-os
 openai
 langchain
 langchain_community
